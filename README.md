@@ -8,7 +8,7 @@ Built for marketing teams and stakeholders who need a clear, data-driven view of
 
 ## 🖼️ Dashboard Preview
 
-> *(Add a screenshot of your dashboard here)*
+![Dashboard Preview](screenshots/dashboard_screenshot.png)
 
 ---
 
